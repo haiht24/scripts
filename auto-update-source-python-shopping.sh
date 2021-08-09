@@ -21,5 +21,5 @@ source /home/*/virtualenv/python-api/3.8/bin/activate && cd /home/*/python-api
 pip install --upgrade pip
 pip install -r requirements.txt
 
-echo "==========================================";
+echo "=================";
 echo "...Updated new source code. Let's Start App again"
