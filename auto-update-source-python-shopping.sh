@@ -11,6 +11,7 @@ unzip master.zip;
 
 # Copy new source to replace
 cd /home/*;
+rm -rf python-api.old;
 mv python-api python-api.old;
 mv /tmp/python3-api-shopping-master /home/*
 mv /home/*/python3-api-shopping-master python-api
